@@ -43,6 +43,8 @@ module Sharetribe
     {ident: "vi", name: "Tiếng Việt", language: "vi", region: "VN", fallback: nil}, # Vietnamese (Vietnam)
     {ident: "zh", name: "中文", language: "zh", region: "CN", fallback: nil}, # Chinese (China)
     {ident: "zh-TW", name: "繁體中文(台灣)", language: "zh", region: "TW", fallback: "zh-HK"}, # Chinese (Taiwan)
+    {ident: "he-EU", name: "עברית‎", language: "he", region: "EU", fallback: nil}, # Hebrew (Europe)
+
   ]
 
   # List of locales that are incomplete
